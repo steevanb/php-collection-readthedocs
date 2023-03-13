@@ -1,9 +1,3 @@
-Template for the Read the Docs tutorial
-=======================================
+Documentation about https://github.com/steevanb/php-collection.
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
-
-Read the tutorial here:
-
-https://docs.readthedocs.io/en/stable/tutorial/
+See https://php-collection.readthedocs.io/.
