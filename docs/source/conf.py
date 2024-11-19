@@ -3,11 +3,11 @@
 # -- Project information
 
 project = 'PhpCollection'
-copyright = '2023, Steevan BARBOYON'
+copyright = '2017-2024, Steevan BARBOYON'
 author = 'Steevan BARBOYON'
 
-release = '0.1'
-version = '0.1.0'
+release = 'latest'
+version = 'latest'
 
 # -- General configuration
 

@@ -13,14 +13,14 @@ Install PhpCollection with `Composer <https://getcomposer.org/>`_:
 
 .. code-block:: bash
 
-   composer require steevanb/php-collection:5.*
+   composer require steevanb/php-collection:6.*
 
 See :ref:`getting-started`.
 
 Symfony bridge
 --------------
 
-PhpCollection comes with a bridge for ``Symfony ^6.1``
+PhpCollection comes with a bridge for ``Symfony >6.1``
 to be integrated with `symfony/serializer <https://symfony.com/doc/current/components/serializer.html>`_.
 
 By default, the bridge is not autoloaded,
@@ -41,7 +41,7 @@ Add the bridge to your Composer autoload in ``composer.json``:
         }
     }
 
-Add ``PhpCollectionBundle`` in ``config/bundles.php``:
+Add ``PhpCollectionBundle`` in ``config/bundles.php`` (already done if you use ``symfony/flex``):
 
 .. code-block:: php
 
