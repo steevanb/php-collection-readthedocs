@@ -1,0 +1,26 @@
+body {
+    cursor: default;
+}
+
+table.method {
+    width: 100%;
+}
+
+table.method th {
+    background-color: #2980B9;
+    color: #FCFCFC;
+}
+
+table.method td {
+    background-color: #F8F8F8 !important;
+    white-space: normal;
+}
+
+table.method div.highlight-php {
+    margin-bottom: 0;
+    border: 0;
+}
+
+table.method pre {
+    padding: 0 !important;
+}

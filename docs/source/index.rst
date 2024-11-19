@@ -1,5 +1,5 @@
-Welcome to PhpCollection documentation
-======================================
+PhpCollection
+=============
 
 `steevanb/php-collection <https://github.com/steevanb/php-collection/>`_ is a PHP library to create collections.
 
@@ -11,7 +11,13 @@ Contents
 --------
 
 .. toctree::
+    :maxdepth: 1
 
-   installation
-   getting-started
-   symfony-bridge
+    installation
+    symfony-bridge
+    methods
+    create-a-collection
+    null-value
+    read-only
+    generics
+    about
